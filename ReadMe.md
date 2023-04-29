@@ -14,3 +14,6 @@ Swing is a GUI widget to toolkit created for Java based applications.
 * Was built on top of the AWT package.
 * Used for building rich desktop applications and websites.
 * Swing is no longer updated by Oracle, just bug fixes and maintenance.
+### JavaFX - 2008
+* Used for building applications for desktops, websites, and handheld devices.
+* Includes features for touch-screen based devices.
