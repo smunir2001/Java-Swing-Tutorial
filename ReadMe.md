@@ -17,3 +17,5 @@ Swing is a GUI widget to toolkit created for Java based applications.
 ### JavaFX - 2008
 * Used for building applications for desktops, websites, and handheld devices.
 * Includes features for touch-screen based devices.
+## Java Swing - Class Hierarchy
+![](java_swing_class_hierarchy_image.jpeg)
